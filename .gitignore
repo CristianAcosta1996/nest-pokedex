@@ -5,6 +5,9 @@
 
 /mongo
 
+# Sesitive data
+/.env
+
 # Logs
 logs
 *.log
